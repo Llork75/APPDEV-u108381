@@ -1,5 +1,5 @@
 # APPDEV-U108381
 # Application Development Assignment A
 ## Photo
-![Amy Vann, source: www.unsplash.com](https://unsplash.com/de/fotos/blick-auf-einen-strand-mit-einem-boot-in-der-ferne-GFsc977iFL4)
+![Amy Vann, source: www.unsplash.com](/amy-vann-GFsc977iFL4-unsplash.jpg)
 Submitted by u108381
